@@ -2,6 +2,8 @@
 
 > Go green, not mad
 
+⚠️ Following IBM Watson's Deprecation, this repository is being archived and is now read-only, but coming better for a V2 ⚠️
+
 Sorter is a simple web application that uses vue js, firebase and node js along IBM Watson Visual Recognition to create an easy to use waste-sortering tool. 
 
 It divides waste into three categories: 
